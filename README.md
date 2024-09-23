@@ -34,7 +34,7 @@ Este proyecto te desafía a adivinar una palabra de 5 letras en un máximo de 6 
     ```
 2. Navega al directorio del proyecto:
    ```bash
-cd wordle-5-letras
+    cd wordle-5-letras
     ```
 3. Abre el archivo index.html en tu navegador.
 
