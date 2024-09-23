@@ -38,12 +38,10 @@ Este proyecto te desafía a adivinar una palabra de 5 letras en un máximo de 6 
     ```
 3. Abre el archivo index.html en tu navegador.
 
-## 🌈 Estilos de Juego
-🟩 Verde: La letra está en la posición correcta.
-🟨 Amarillo: La letra está en la palabra pero en la posición incorrecta.
-⬜ Gris: La letra no está en la palabra.
 
 ## 🤖 Tecnologías Utilizadas
 HTML 🌐: Para la estructura de la página.
+
 CSS 🎨: Para los estilos y diseño visual.
+
 JavaScript 💻: Para la lógica del juego.
