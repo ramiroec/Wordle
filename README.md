@@ -40,8 +40,6 @@ Este proyecto te desafía a adivinar una palabra de 5 letras en un máximo de 6 
 
 
 ## 🤖 Tecnologías Utilizadas
-HTML 🌐: Para la estructura de la página.
-
-CSS 🎨: Para los estilos y diseño visual.
-
+HTML 🌐: Para la estructura de la página. <br>
+CSS 🎨: Para los estilos y diseño visual. <br>
 JavaScript 💻: Para la lógica del juego.
